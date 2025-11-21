@@ -20,8 +20,10 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
 
 ### Bibliotecas & Ferramentas
 - **[Leblanc](https://github.com/wSanice/leblanc)**
-  > *Modular Python Library for Synthetic Data*
-  > Uma biblioteca Python desenvolvida para a geração rápida de datasets sintéticos em larga escala para diversos setores de negócios. Construída sobre Pandas, NumPy e Faker, ela acelera o processo de prototipagem e testes em projetos de Data Science onde dados reais são escassos ou sensíveis.
+  > *Synthetic Data Generator for Business Contexts*
+  > Biblioteca Python open-source disponível no **PyPI** (`pip install leblanc`), desenvolvida para agilizar a etapa de coleta de dados em projetos.
+  > * **Propósito:** Elimina o boilerplate de criar geradores manuais com `Faker`, entregando datasets estruturados e coerentes para contextos de negócio (Varejo, Agro, Finanças).
+  > * **Tech:** Abstração de alto nível construída sobre **Pandas** e **NumPy** para performance na geração de grandes volumes de dados.
 
 ### Machine Learning & Visão Computacional
 - **[Plant-AI](https://github.com/wSanice/Plant-AI)** (Em desenvolvimento)
@@ -32,10 +34,13 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   > *Imbalanced Adversarial Learning*
   > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
 
-- **[Biomass Prediction Multi-Imput](https://github.com/wSanice/Biomass_Prediction_multi-imput)**
-  > *Modelagem Preditiva com Tratamento de Dados Ausentes*
-  > Desenvolvimento de modelos preditivos para estimativa de biomassa, focando em técnicas avançadas de imputação múltipla para lidar com falhas nos dados de entrada.
-
+- **[CSIRO Biomass Prediction (Deep Learning)](https://github.com/wSanice/Biomass_Prediction_multi-imput)**
+  > *Computer Vision & Transfer Learning Strategy*
+  > Pipeline completo de Deep Learning para prever biomassa a partir de imagens aéreas (Kaggle), atingindo score competitivo (0.40):
+  > * **Data Engineering:** Transformação de dados complexos ("long-to-wide") utilizando **Pandas** para estruturar o dataset de treino.
+  > * **Modeling:** Arquitetura **TensorFlow/Keras** baseada na **EfficientNetB0**. Implementação de estratégia de **Transfer Learning** em duas fases (Feature Extraction + Fine-Tuning progressivo) para evitar overfitting.
+  > * **Deployment:** Protótipo em **Streamlit** demonstrando o conceito "Multi-Input" (processamento simultâneo de Imagem + Metadados como NDVI).
+  
 ### Engenharia de Dados & Analytics
 - **[ETL Vendas Varejo & Dashboard](https://github.com/wSanice/etl_vendas_varejo_olist_sheets)**
   > *Automated Data Pipeline (Python ➡️ Google Sheets)*
