@@ -127,5 +127,5 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
 
 ---
 <p align="center">
-  <i>"Data is the new oil, but like oil, it cannot be used if unrefined."</i>
+  <i>"Blind faith is the tool of monsters and fools. Analyze the data."</i>
 </p>
