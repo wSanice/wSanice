@@ -1,6 +1,6 @@
 # Hi there, I'm Sanice 🖖🏽
 ![2nd arrow](https://github.com/Nagakburos/Nagakburos/assets/103370604/ef04fd97-07d5-47f8-9676-624997ef3094)
-
+ 
 ### Estudante de Data Science | Desenvolvedor Python | Univesp
 
 Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluções práticas. Combinando meu background em suporte de TI com desenvolvimento Python, estou focado em criar modelos de Machine Learning robustos e ferramentas que automatizam processos de dados, resolvendo problemas de forma criativa e definitiva.
