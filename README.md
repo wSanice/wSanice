@@ -30,17 +30,17 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   > *Diagnóstico de Doenças em Plantas*
   > Projeto de Visão Computacional utilizando Deep Learning para identificar doenças em plantas através de imagens. O modelo atingiu uma acurácia superior a **90%**, visando auxiliar na agricultura de precisão.
 
-- **[Adaptive Image Classification (IALM)](https://github.com/wSanice/Adaptive-Image-Classification-IALM)**
-  > *Imbalanced Adversarial Learning*
-  > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
-
 - **[CSIRO Biomass Prediction (Deep Learning)](https://github.com/wSanice/Biomass_Prediction_multi-imput)**
   > *Computer Vision & Transfer Learning Strategy*
   > Pipeline completo de Deep Learning para prever biomassa a partir de imagens aéreas (Kaggle), atingindo score competitivo (0.40):
   > * **Data Engineering:** Transformação de dados complexos ("long-to-wide") utilizando **Pandas** para estruturar o dataset de treino.
   > * **Modeling:** Arquitetura **TensorFlow/Keras** baseada na **EfficientNetB0**. Implementação de estratégia de **Transfer Learning** em duas fases (Feature Extraction + Fine-Tuning progressivo) para evitar overfitting.
   > * **Deployment:** Protótipo em **Streamlit** demonstrando o conceito "Multi-Input" (processamento simultâneo de Imagem + Metadados como NDVI).
-  
+
+- **[Adaptive Image Classification (IALM)](https://github.com/wSanice/Adaptive-Image-Classification-IALM)**
+  > *Imbalanced Adversarial Learning*
+  > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
+
 ### Engenharia de Dados & Analytics
 - **[ETL Vendas Varejo & Dashboard](https://github.com/wSanice/etl_vendas_varejo_olist_sheets)**
   > *Automated Data Pipeline (Python ➡️ Google Sheets)*
