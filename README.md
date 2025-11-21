@@ -1,9 +1,59 @@
-# Hi there, I'm Wan 🖖🏽
+# Hi there, I'm Sanice 🖖🏽
 ![2nd arrow](https://github.com/Nagakburos/Nagakburos/assets/103370604/ef04fd97-07d5-47f8-9676-624997ef3094)
+
+### Estudante de Data Science | Desenvolvedor Python | Univesp
+
+Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluções práticas. Combinando meu background em suporte de TI com desenvolvimento Python, estou focado em criar modelos de Machine Learning robustos e ferramentas que automatizam processos de dados, resolvendo problemas de forma criativa e definitiva.
+
+<div style="display:inline_block">
+  <a href="https://www.linkedin.com/in/wantruil-sanice/?locale=en_US" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://uuno.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website"/>
+  </a>
+</div>
 
 ---
 
-## 📊 Technologies & Tools
+## Projetos em Destaque (Data Science & ML)
+
+### Bibliotecas & Ferramentas
+- **[Leblanc](https://github.com/wSanice/leblanc)**
+  > *Modular Python Library for Synthetic Data*
+  > Uma biblioteca Python desenvolvida para a geração rápida de datasets sintéticos em larga escala para diversos setores de negócios. Construída sobre Pandas, NumPy e Faker, ela acelera o processo de prototipagem e testes em projetos de Data Science onde dados reais são escassos ou sensíveis.
+
+### Machine Learning & Visão Computacional
+- **[Plant-AI](https://github.com/wSanice/Plant-AI)** (Em desenvolvimento)
+  > *Diagnóstico de Doenças em Plantas*
+  > Projeto de Visão Computacional utilizando Deep Learning para identificar doenças em plantas através de imagens. O modelo atingiu uma acurácia superior a **90%**, visando auxiliar na agricultura de precisão.
+
+- **[Adaptive Image Classification (IALM)](https://github.com/wSanice/Adaptive-Image-Classification-IALM)**
+  > *Imbalanced Adversarial Learning*
+  > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
+
+- **[Biomass Prediction Multi-Imput](https://github.com/wSanice/Biomass_Prediction_multi-imput)**
+  > *Modelagem Preditiva com Tratamento de Dados Ausentes*
+  > Desenvolvimento de modelos preditivos para estimativa de biomassa, focando em técnicas avançadas de imputação múltipla para lidar com falhas nos dados de entrada.
+
+### Engenharia de Dados & Analytics
+- **[ETL Vendas Varejo & Dashboard](https://github.com/wSanice/etl_vendas_varejo_olist_sheets)**
+  > *Automated Data Pipeline (Python ➡️ Google Sheets)*
+  > Solução de Business Intelligence completa (End-to-End) baseada no dataset Olist:
+  > * **Back-end (ETL):** Script Python que extrai e processa dados brutos usando **Pandas**. A automação carrega os dados tratados diretamente na nuvem via **Google Sheets API (gspread)**.
+  > * **Front-end (Analytics):** Dashboard interativo construído com funções avançadas (`QUERY`, `SUMIFS`) para monitoramento de KPIs (Faturamento, Ticket Médio) com filtros dinâmicos.
+  > [🔗 Ver Dashboard ao Vivo](https://docs.google.com/spreadsheets/d/1...seu_link_aqui...)
+
+- **[QuemCarrega.lol](https://quemcarrega.lol/)**
+  > *League of Legends Meta Analyzer & Dashboard*
+  > Aplicação web Data-Driven (SPA) desenvolvida para análise de Win Rate e Pick Rate de campeões. O projeto integra todo o ciclo de dados:
+  > * **ETL & Ingestion:** Web Scraping e Engenharia Reversa de APIs (`requests`) para extração de dados em tempo real, contornando a ausência de endpoints públicos agregados.
+  > * **Processing:** Limpeza e agregação complexa de JSONs aninhados utilizando Pandas. Integração com Riot Games Data Dragon para versionamento.
+  > * **Frontend:** Dashboard interativo construído com **Streamlit**.
+  > * **Infra:** Deploy containerizado na **Railway** com **Cloudflare** (CDN/SSL).
+---
+
+## Technologies & Tools
 
 ### 🔹 Programming Languages
 <div style="display:inline_block"><br/>
@@ -15,17 +65,20 @@
 <div style="display:inline_block"><br/>
   <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img align="center" alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
 ### 🔹 Data Visualization & Analysis
 <div style="display:inline_block"><br/>
   <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-ED8B00?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img align="center" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ---
 
-## 🧰 Tools & Platforms
+## Tools & Platforms
 
 ### 🔹 Cloud & Virtual Machines
 <div style="display:inline_block"><br/>
@@ -38,29 +91,17 @@
 <div style="display:inline_block"><br/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" alt="hadoop" src="https://img.shields.io/badge/Hadoop-66CC33?style=for-the-badge&logo=hadoop&logoColor=white"/>
-  <img align="center" alt="spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 </div>
 
 ### 🔹 Development Environments
 <div style="display:inline_block"><br/>
   <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img align="center" alt="vs-code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ---
 
-## 🧠 Projects & Achievements
-
-### 📈 Notable Projects
-- **[Image Classification](#)**:Este projeto utiliza o IALM (Imbalanced Adversarial Learning for Multi-class Classification) para classificar imagens. A solução foi construída com Python, utilizando bibliotecas como TensorFlow e Keras. O modelo foi treinado para lidar com datasets desbalanceados, oferecendo uma abordagem robusta para a classificação de múltiplas classes em conjuntos de dados desiguais. O objetivo foi melhorar a performance da classificação, especialmente em cenários onde algumas classes possuem muito mais exemplos que outras.
-- **[Customer Churn Prediction](#)**
-- **[Time Series Forecasting](#)**
-
----
-
-## 🖥️ Operating Systems & Environment
+## Operating Systems & Environment
 
 <div style="display:inline_block"><br/>
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -69,10 +110,12 @@
 
 ---
 
-## 🔍 Interests
-- **AI Research**: I'm passionate about exploring the latest trends in AI, especially reinforcement learning and generative models.
-- **Big Data**: Interested in exploring ways to process and analyze large datasets efficiently using tools like Hadoop, Spark, and distributed computing systems.
+## Interests
+- **AI Research**: Apaixonado por explorar as últimas tendências em IA, especialmente Reinforcement Learning e Generative Models.
+- **Data Engineering**: Interesse em criar pipelines eficientes e bibliotecas personalizadas para facilitar o fluxo de trabalho de dados.
+- **Web Development**: Aplicação de conhecimentos de Data Science em projetos Web (Flask/Python), como o [uuno.me](https://uuno.me/).
 
 ---
-
-
+<p align="center">
+  <i>"Data is the new oil, but like oil, it cannot be used if unrefined."</i>
+</p>
