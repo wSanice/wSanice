@@ -36,7 +36,12 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   > * **Data Engineering:** Transformação de dados complexos ("long-to-wide") utilizando **Pandas** para estruturar o dataset de treino.
   > * **Modeling:** Arquitetura **TensorFlow/Keras** baseada na **EfficientNetB0**. Implementação de estratégia de **Transfer Learning** em duas fases (Feature Extraction + Fine-Tuning progressivo) para evitar overfitting.
   > * **Deployment:** Protótipo em **Streamlit** demonstrando o conceito "Multi-Input" (processamento simultâneo de Imagem + Metadados como NDVI).
-
+- **[Análise de E-commerce (Python)](https://github.com/wSanice/ecommerce-analysis)**
+  > *Data Analytics & Business Intelligence*
+  > Estudo de caso focado em transformar dados brutos de transações em estratégia de negócio para escalabilidade.
+  > * **Data Engineering:** Geração de dataset sintético complexo com o módulo *Leblanc* e processamento de dados com **Pandas**.
+  > * **EDA & Visualization:** Análise exploratória profunda com **Matplotlib** e **Seaborn** para identificar tendências de sazonalidade e curva ABC de produtos.
+  > * **Business Value:** Mapeamento de oportunidades de expansão logística (PR/CE) e otimização de estoque de alto giro, consolidado em um relatório executivo (Storytelling).
 - **[Adaptive Image Classification (IALM)](https://github.com/wSanice/Adaptive-Image-Classification-IALM)**
   > *Imbalanced Adversarial Learning*
   > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
