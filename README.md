@@ -42,6 +42,12 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   > * **Data Engineering:** Geração de dataset sintético complexo com o módulo *Leblanc* e processamento de dados com **Pandas**.
   > * **EDA & Visualization:** Análise exploratória profunda com **Matplotlib** e **Seaborn** para identificar tendências de sazonalidade e curva ABC de produtos.
   > * **Business Value:** Mapeamento de oportunidades de expansão logística (PR/CE) e otimização de estoque de alto giro, consolidado em um relatório executivo (Storytelling).
+- **[Universal Churn Prediction Pipeline](https://www.kaggle.com/code/nagakaburos/churn-prediction-wsanice?scriptVersionId=281502326)**
+  > *Automated ML Pipeline & Business Analytics*
+  > Sistema inteligente de previsão de cancelamento (Churn) capaz de operar com dados reais e sintéticos (Gerados via leblanc).
+  > * **Modeling:** Treinamento automatizado de modelos **Random Forest** para identificar padrões de comportamento de risco.
+  > * **Smart Pipeline:** Algoritmo que detecta automaticamente a estrutura do dataset de entrada e adapta o pré-processamento (ETL).
+  > * **Business Value:** Entrega não apenas a previsão (0/1), mas um diagnóstico visual dos produtos e fatores financeiros que mais causam prejuízo.
 - **[Adaptive Image Classification (IALM)](https://github.com/wSanice/Adaptive-Image-Classification-IALM)**
   > *Imbalanced Adversarial Learning*
   > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
