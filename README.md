@@ -24,7 +24,12 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   > Biblioteca Python open-source disponível no **PyPI** (`pip install leblanc`), desenvolvida para agilizar a etapa de coleta de dados em projetos.
   > * **Propósito:** Elimina o boilerplate de criar geradores manuais com `Faker`, entregando datasets estruturados e coerentes para contextos de negócio (Varejo, Agro, Finanças).
   > * **Tech:** Abstração de alto nível construída sobre **Pandas** e **NumPy** para performance na geração de grandes volumes de dados.
-
+- **[Generative-Catalog-Engine](https://github.com/wSanice/Generative-Catalog-Engine)**
+  > *NLP-Driven Product Generation & Automation*
+  > Projeto nascido da exploração avançada de **GenAI** e **NLP**. Trata-se de uma engine capaz de "criar" produtos estruturados a partir de inputs de linguagem natural.
+  > * **Discovery:** Durante estudos sobre automação de dados, desenvolvi este pipeline que replica o conceito de **Generative Commerce**, permitindo a criação de catálogos *just-in-time*.
+  > * **Tech:** Orquestração de LLMs com **Python**, focado na conversão de *prompts* semânticos em objetos **JSON** validados para integração com backends de e-commerce.
+  
 ### Machine Learning & Visão Computacional
 - **[Plant-AI](https://github.com/wSanice/Plant-AI)** (Em desenvolvimento)
   > *Diagnóstico de Doenças em Plantas*
