@@ -26,7 +26,7 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   > * **Tech:** Abstração de alto nível construída sobre **Pandas** e **NumPy** para performance na geração de grandes volumes de dados.
 - **[Sanice](https://github.com/wSanice/sanice)**
   > *Fluent Python Wrapper for Data Science Acceleration*
-  > Toolkit *low-code* disponível no **PyPI** (`pip install sanice`), projetado para acelerar o fluxo de trabalho de ponta a ponta (ETL ➡️ AutoML ➡️ Deploy).
+  > Toolkit disponível no **PyPI** (`pip install sanice`), projetado para acelerar o fluxo de trabalho de ponta a ponta (ETL ➡️ AutoML ➡️ Deploy).
   > * **Propósito:** Abstrai a complexidade do **Pandas**, **Scikit-Learn** e **FastAPI** em uma interface fluente (*Method Chaining*). Permite limpar dados, treinar modelos e subir APIs em minutos, focando na lógica de negócio em vez da sintaxe.
   > * **Diferencial:** Arquitetura encapsulada com suporte nativo a comandos multilíngues (PT, EN, ZH, HI) e CLI integrada para verificação rápida (`sanice ajuda | sanice `).
   
