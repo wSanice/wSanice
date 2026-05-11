@@ -9,7 +9,7 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
   <a href="https://www.linkedin.com/in/wantruil-sanice/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://uuno.me/" target="_blank">
+  <a href="https://annyia.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website"/>
   </a>
 </div>
