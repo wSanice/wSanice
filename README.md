@@ -145,7 +145,7 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
 - **Full-Cycle Data Science**: Interesse em atuar em todas as etapas do fluxo de dados: desde a **Criação de ETLs** e **Análise Exploratória** até o **Treinamento** e **Fine-tuning** de modelos complexos.
 - **AI Research**: Exploração de últimas tendências em IA, especialmente Reinforcement Learning e Generative Models.
 - **Data Engineering**: Foco em criar pipelines eficientes e bibliotecas personalizadas para facilitar o fluxo de trabalho de dados.
-- **Web Development**: Aplicação de conhecimentos de Data Science em projetos Web, como o [uuno.me](https://uuno.me/) e o [quemcarrega.lol](https://quemcarrega.lol/).
+- **Web Development**: Aplicação de conhecimentos de Data Science em projetos Web, como o [AnnyIA](https://annyia.com/) e o [empregar.me](https://empregar.me).
 
 ---
 <p align="center">
