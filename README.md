@@ -1,83 +1,137 @@
-# Hi there, I'm Sanice 🖖🏽
+# Hi there, I'm Wantruil Sanice 🖖🏽
 ![2nd arrow](https://github.com/Nagakburos/Nagakburos/assets/103370604/ef04fd97-07d5-47f8-9676-624997ef3094)
- 
-### Estudante de Data Science | Desenvolvedor Python | Univesp
 
-Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluções práticas. Combinando meu background em suporte de TI com desenvolvimento Python, estou focado em criar modelos de Machine Learning robustos e ferramentas que automatizam processos de dados, resolvendo problemas de forma criativa e definitiva.
+<div align="center">
+  <a href="https://annyia.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%7C+Founder+%40AnnyIA;Construindo+Sanice+%26+Leblanc+no+PyPI;%22Analyze+the+data.%22&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG"/>
+  </a>
+</div>
+
+### Data Scientist | CEO & Founder @AnnyIA | Desenvolvedor Python | UNIVESP
+
+Cientista de Dados guiado pelo empenho em transformar dados brutos em soluções práticas e objetivas. Combino background em suporte técnico com desenvolvimento Python para construir modelos de Machine Learning robustos, ferramentas open-source e produtos de IA que resolvem problemas reais de mercado — como o recrutamento inteligente na **AnnyIA** e a empregabilidade data-driven na **Anny Carreiras**.
 
 <div style="display:inline_block">
-  <a href="https://www.linkedin.com/in/wantruil-sanice/?locale=en_US" target="_blank">
+  <a href="https://www.linkedin.com/in/wantruilsanice" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://annyia.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/AnnyIA-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="AnnyIA"/>
+  </a>
+  <a href="https://pypi.org/project/sanice/" target="_blank">
+    <img src="https://img.shields.io/pypi/v/sanice?style=for-the-badge&label=PyPI&color=3775A9&logo=pypi&logoColor=white" alt="PyPI - sanice"/>
+  </a>
+  <a href="mailto:wansanice@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
+<br/>
+
+<div style="display:inline_block">
+  <img src="https://github-readme-stats.vercel.app/api?username=wSanice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wSanice&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+---
+
+## 🚀 Em Destaque
+
+### 🧠 AnnyIA — CEO & Founder
+ATS com inteligência artificial que automatiza recrutamento e seleção para startups e PMEs: publica vagas, conduz triagem e realiza a primeira entrevista automaticamente, sem viés, conectando gestores a talentos em tempo real.
+🔗 [annyia.com](https://annyia.com)
+
+### 💼 Anny Carreiras — Fundador
+Plataforma que usa IA para acelerar a jornada de talentos no mercado de trabalho, com matching de alta precisão, mini cursos para gaps de skills e parcerias com empresas contratantes.
+
+### 📖 Livro — SANICE: Data Science Ágil para Quem Tem Pressa
+Autor de um livro dedicado a ensinar o uso da biblioteca **sanice**, do fluxo `ETL ➡️ AutoML ➡️ Deploy` à CLI multilíngue.
+
+### 🧩 Extensões VS Code
+- **Pandas Chef — Receitas de Data Science** · `2.250+` instalações
+  > Seu sous-chef brasileiro de Data Science. Snippets inteligentes de Pandas, Limpeza de Dados e Visualização prontos para usar.
+- **Sheldon PEP8 — The Flash Python Formatter** · `744+` instalações
+  > Bazinga! Formatação Python num flash, seguindo estritamente as regras da PEP 8.
 
 ---
 
 ## Projetos em Destaque (Data Science & ML)
 
-### Bibliotecas & Ferramentas
-- **[Leblanc](https://github.com/wSanice/leblanc)**
+<details open>
+<summary><b>🔹 Bibliotecas & Ferramentas</b></summary>
+<br/>
+
+- **[Sanice](https://github.com/wSanice/sanice)** · [![PyPI](https://img.shields.io/pypi/v/sanice?color=blue)](https://pypi.org/project/sanice/)
+  > *Fluent Python Wrapper for Data Science Acceleration*
+  > Toolkit disponível no **PyPI** (`pip install sanice`), projetado para acelerar o fluxo de trabalho de ponta a ponta (ETL ➡️ AutoML ➡️ Deploy).
+  > * **Propósito:** Abstrai a complexidade do **Pandas**, **Scikit-Learn** e **FastAPI** em uma interface fluente (*Method Chaining*). Permite limpar dados, treinar modelos e subir APIs em minutos, focando na lógica de negócio em vez da sintaxe.
+  > * **Diferencial:** Arquitetura encapsulada com suporte nativo a comandos multilíngues (PT, EN, ZH, HI) e CLI integrada para verificação rápida (`sanice ajuda | sanice help`).
+  > * **Documentação aprofundada:** disponível no livro que escrevi ensinando a biblioteca do zero ao avançado.
+
+- **[Leblanc](https://github.com/wSanice/leblanc)** · [![PyPI](https://img.shields.io/pypi/v/leblanc?color=blue)](https://pypi.org/project/leblanc/)
   > *Synthetic Data Generator for Business Contexts*
   > Biblioteca Python open-source disponível no **PyPI** (`pip install leblanc`), desenvolvida para agilizar a etapa de coleta de dados em projetos.
   > * **Propósito:** Elimina o boilerplate de criar geradores manuais com `Faker`, entregando datasets estruturados e coerentes para contextos de negócio (Varejo, Agro, Finanças).
   > * **Tech:** Abstração de alto nível construída sobre **Pandas** e **NumPy** para performance na geração de grandes volumes de dados.
-- **[Sanice](https://github.com/wSanice/sanice)**
-  > *Fluent Python Wrapper for Data Science Acceleration*
-  > Toolkit disponível no **PyPI** (`pip install sanice`), projetado para acelerar o fluxo de trabalho de ponta a ponta (ETL ➡️ AutoML ➡️ Deploy).
-  > * **Propósito:** Abstrai a complexidade do **Pandas**, **Scikit-Learn** e **FastAPI** em uma interface fluente (*Method Chaining*). Permite limpar dados, treinar modelos e subir APIs em minutos, focando na lógica de negócio em vez da sintaxe.
-  > * **Diferencial:** Arquitetura encapsulada com suporte nativo a comandos multilíngues (PT, EN, ZH, HI) e CLI integrada para verificação rápida (`sanice ajuda | sanice `).
-  
+
 - **[Generative-Catalog-Engine](https://github.com/wSanice/Generative-Catalog-Engine)**
   > *NLP-Driven Product Generation & Automation*
-  > Projeto nascido da exploração avançada de **GenAI** e **NLP**. Trata-se de uma engine capaz de "criar" produtos estruturados a partir de inputs de linguagem natural.
-  > * **Discovery:** Durante estudos sobre automação de dados, desenvolvi este pipeline que replica o conceito de **Generative Commerce**, permitindo a criação de catálogos *just-in-time*.
-  > * **Tech:** Orquestração de LLMs com **Python**, focado na conversão de *prompts* semânticos em objetos **JSON** validados para integração com backends de e-commerce.
-  
-### Machine Learning & Visão Computacional
+  > Engine capaz de "criar" produtos estruturados a partir de inputs de linguagem natural, replicando o conceito de **Generative Commerce** para criação de catálogos *just-in-time*.
+  > * **Tech:** Orquestração de LLMs com **Python**, convertendo *prompts* semânticos em objetos **JSON** validados para integração com backends de e-commerce.
+
+</details>
+
+<details>
+<summary><b>🔹 Machine Learning & Visão Computacional</b></summary>
+<br/>
+
 - **[Plant-AI](https://github.com/wSanice/Plant-AI)** (Em desenvolvimento)
   > *Diagnóstico de Doenças em Plantas*
-  > Projeto de Visão Computacional utilizando Deep Learning para identificar doenças em plantas através de imagens. O modelo atingiu uma acurácia superior a **90%**, visando auxiliar na agricultura de precisão.
+  > Visão Computacional com Deep Learning para identificar doenças em plantas através de imagens, com acurácia superior a **90%**, visando agricultura de precisão.
 
 - **[CSIRO Biomass Prediction (Deep Learning)](https://github.com/wSanice/Biomass_Prediction_multi-imput)**
   > *Computer Vision & Transfer Learning Strategy*
   > Pipeline completo de Deep Learning para prever biomassa a partir de imagens aéreas (Kaggle), atingindo score competitivo (0.40):
-  > * **Data Engineering:** Transformação de dados complexos ("long-to-wide") utilizando **Pandas** para estruturar o dataset de treino.
-  > * **Modeling:** Arquitetura **TensorFlow/Keras** baseada na **EfficientNetB0**. Implementação de estratégia de **Transfer Learning** em duas fases (Feature Extraction + Fine-Tuning progressivo) para evitar overfitting.
-  > * **Deployment:** Protótipo em **Streamlit** demonstrando o conceito "Multi-Input" (processamento simultâneo de Imagem + Metadados como NDVI).
+  > * **Data Engineering:** Transformação "long-to-wide" com **Pandas** para estruturar o dataset de treino.
+  > * **Modeling:** Arquitetura **TensorFlow/Keras** baseada na **EfficientNetB0**, com Transfer Learning em duas fases (Feature Extraction + Fine-Tuning progressivo).
+  > * **Deployment:** Protótipo em **Streamlit** com conceito "Multi-Input" (Imagem + Metadados como NDVI).
+
 - **[Análise de E-commerce (Python)](https://github.com/wSanice/ecommerce-analysis)**
   > *Data Analytics & Business Intelligence*
-  > Estudo de caso focado em transformar dados brutos de transações em estratégia de negócio para escalabilidade.
-  > * **Data Engineering:** Geração de dataset sintético complexo com o módulo *Leblanc* e processamento de dados com **Pandas**.
-  > * **EDA & Visualization:** Análise exploratória profunda com **Matplotlib** e **Seaborn** para identificar tendências de sazonalidade e curva ABC de produtos.
-  > * **Business Value:** Mapeamento de oportunidades de expansão logística (PR/CE) e otimização de estoque de alto giro, consolidado em um relatório executivo (Storytelling).
+  > * **Data Engineering:** Dataset sintético gerado com *Leblanc* e processado com **Pandas**.
+  > * **EDA & Visualization:** Análise exploratória com **Matplotlib** e **Seaborn** para sazonalidade e curva ABC.
+  > * **Business Value:** Mapeamento de expansão logística (PR/CE) e otimização de estoque, consolidado em relatório executivo.
+
 - **[Universal Churn Prediction Pipeline](https://www.kaggle.com/code/nagakaburos/churn-prediction-wsanice?scriptVersionId=281502326)**
   > *Automated ML Pipeline & Business Analytics*
-  > Sistema inteligente de previsão de cancelamento (Churn) capaz de operar com dados reais e sintéticos (Gerados via leblanc).
-  > * **Modeling:** Treinamento automatizado de modelos **Random Forest** para identificar padrões de comportamento de risco.
-  > * **Smart Pipeline:** Algoritmo que detecta automaticamente a estrutura do dataset de entrada e adapta o pré-processamento (ETL).
-  > * **Business Value:** Entrega não apenas a previsão (0/1), mas um diagnóstico visual dos produtos e fatores financeiros que mais causam prejuízo.
+  > * **Modeling:** Random Forest para padrões de comportamento de risco.
+  > * **Smart Pipeline:** Detecção automática da estrutura do dataset e adaptação do pré-processamento (ETL).
+  > * **Business Value:** Diagnóstico visual dos fatores financeiros que mais causam prejuízo.
+
 - **[Adaptive Image Classification (IALM)](https://github.com/wSanice/Adaptive-Image-Classification-IALM)**
   > *Imbalanced Adversarial Learning*
-  > Estudo focado em classificação de imagens utilizando TensorFlow e Keras. O diferencial deste projeto é o tratamento de **datasets desbalanceados** usando técnicas de aprendizado adversarial (IALM), melhorando a performance do modelo em classes minoritárias.
+  > Classificação de imagens com TensorFlow/Keras, tratando **datasets desbalanceados** com técnicas de aprendizado adversarial (IALM).
 
-### Engenharia de Dados & Analytics
+</details>
+
+<details>
+<summary><b>🔹 Engenharia de Dados & Analytics</b></summary>
+<br/>
+
 - **[ETL Vendas Varejo & Dashboard](https://github.com/wSanice/etl_vendas_varejo_olist_sheets)**
   > *Automated Data Pipeline (Python ➡️ Google Sheets)*
-  > Solução de Business Intelligence completa (End-to-End) baseada no dataset Olist:
-  > * **Back-end (ETL):** Script Python que extrai e processa dados brutos usando **Pandas**. A automação carrega os dados tratados diretamente na nuvem via **Google Sheets API (gspread)**.
-  > * **Front-end (Analytics):** Dashboard interativo construído com funções avançadas (`QUERY`, `SUMIFS`) para monitoramento de KPIs (Faturamento, Ticket Médio) com filtros dinâmicos.
-  > [🔗 Ver Dashboard ao Vivo](https://docs.google.com/spreadsheets/d/1...seu_link_aqui...)
+  > * **Back-end (ETL):** Extração e tratamento de dados com **Pandas**, carga na nuvem via **Google Sheets API (gspread)**.
+  > * **Front-end (Analytics):** Dashboard interativo com `QUERY`, `SUMIFS` para KPIs (Faturamento, Ticket Médio) com filtros dinâmicos.
 
 - **[QuemCarrega.lol](https://quemcarrega.lol/)**
   > *League of Legends Meta Analyzer & Dashboard*
-  > Aplicação web Data-Driven (SPA) desenvolvida para análise de Win Rate e Pick Rate de campeões. O projeto integra todo o ciclo de dados:
-  > * **ETL & Ingestion:** Web Scraping e Engenharia Reversa de APIs (`requests`) para extração de dados em tempo real, contornando a ausência de endpoints públicos agregados.
-  > * **Processing:** Limpeza e agregação complexa de JSONs aninhados utilizando Pandas. Integração com Riot Games Data Dragon para versionamento.
-  > * **Frontend:** Dashboard interativo construído com **Streamlit**.
+  > * **ETL & Ingestion:** Web Scraping e engenharia reversa de APIs (`requests`) para dados em tempo real.
+  > * **Processing:** Limpeza e agregação de JSONs aninhados com Pandas, integração com Riot Games Data Dragon.
+  > * **Frontend:** Dashboard em **Streamlit**.
   > * **Infra:** Deploy containerizado na **Railway** com **Cloudflare** (CDN/SSL).
+
+</details>
+
 ---
 
 ## Technologies & Tools
@@ -133,7 +187,6 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
 ---
 
 ## Operating Systems & Environment
-
 <div style="display:inline_block"><br/>
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -141,13 +194,22 @@ Sou um estudante de Ciência de Dados apaixonado por transformar dados em soluç
 
 ---
 
-## Interests
-- **Full-Cycle Data Science**: Interesse em atuar em todas as etapas do fluxo de dados: desde a **Criação de ETLs** e **Análise Exploratória** até o **Treinamento** e **Fine-tuning** de modelos complexos.
-- **AI Research**: Exploração de últimas tendências em IA, especialmente Reinforcement Learning e Generative Models.
-- **Data Engineering**: Foco em criar pipelines eficientes e bibliotecas personalizadas para facilitar o fluxo de trabalho de dados.
-- **Web Development**: Aplicação de conhecimentos de Data Science em projetos Web, como o [AnnyIA](https://annyia.com/) e o [empregar.me](https://empregar.me).
+## 📚 Publicações
+- **SANICE: Data Science Ágil para Quem Tem Pressa** — livro sobre a biblioteca `sanice`, do primeiro `pip install` ao deploy em produção.
 
 ---
+
+## Interests
+- **Full-Cycle Data Science**: da criação de ETLs e análise exploratória ao treinamento e fine-tuning de modelos complexos.
+- **AI Research**: exploração de tendências em IA, especialmente Reinforcement Learning e Generative Models.
+- **Data Engineering**: pipelines eficientes e bibliotecas próprias para acelerar o fluxo de trabalho de dados.
+- **Product & Entrepreneurship**: aplicação de Data Science em produtos reais — [AnnyIA](https://annyia.com) e Anny Carreiras.
+- **Developer Experience**: criação de ferramentas que outros devs usam no dia a dia — do CLI às extensões de editor (Sheldon PEP8, Pandas Chef).
+
+---
+
 <p align="center">
   <i>"Blind faith is the tool of monsters and fools. Analyze the data."</i>
 </p>
+
+<img src="https://raw.githubusercontent.com/wSanice/wSanice/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
